@@ -68,7 +68,7 @@ figure {
     float: right;
     margin-left: 25px;
 }
-/* changed from class .content */
+
 main {
     width: 75%;
     display: inline-block;
@@ -86,7 +86,7 @@ aside {
     background-color: #2589bd;
 }
 
-#search-engine-optimization {
+main section {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -95,49 +95,13 @@ aside {
     color: #ffffff;
 }
 
-#online-reputation-management {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-
-#social-media-marketing {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-
-#search-engine-optimization img {
+main section img {
     max-height: 200px;
 }
 
-#online-reputation-management img {
-    max-height: 200px;
-}
-
-#social-media-marketing img {
-    max-height: 200px;
-}
-
-#search-engine-optimization h2 {
+main section h2 {
     margin-bottom: 20px;
-    font-size: 36px;
-}
-
-#online-reputation-management h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
-#social-media-marketing h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
+    font-size: 36px;  
 }
 
 .benefit {
