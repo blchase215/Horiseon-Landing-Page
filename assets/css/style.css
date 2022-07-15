@@ -20,9 +20,13 @@ header h1 {
     font-size: 48px;
 }
 
+/* emphasises seo in logo */
+
 header h1 span {
     color: #d9dcd6;
 }
+
+/* navigation links to main section elements */
 
 header nav {
     padding-top: 15px;
@@ -49,7 +53,7 @@ a {
 p {
     font-size: 16px;
 }
-
+/* background image */
 figure {
     height: 800px;
     width: 100%;
