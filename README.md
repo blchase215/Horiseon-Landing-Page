@@ -6,7 +6,7 @@ This project was a refactoring of Horiseon's website to improve accessibility.  
 
 ## Installation
 
-Clone this repo to your local host, and open in your text editor of choice.  All needed assets are included.
+Clone this repo to your local host, and open the folder in the text editor of your choice.  All needed assets are included.
 
 ## Usage
 
