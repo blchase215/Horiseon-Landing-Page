@@ -10,8 +10,7 @@ Clone this repo to your local host, and open the folder in the text editor of yo
 
 ## Usage
 
-This is a static informational landing page.  Links in the header can help you skip to the part of the page you are trying to view.  This is a responsive layout designed to look appropriate on desktop/laptop, tablet, or smartphone.
-
+This is a static informational landing page.  Links in the header can navigate to the section of the page you are trying to view.
 ## Link
 
 https://blchase215.github.io/Horiseon-Landing-Page/

@@ -8,6 +8,17 @@ body {
     background-color: #d9dcd6;
 }
 
+a {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+p {
+    font-size: 16px;
+}
+
+/* styles Horiseon logo and organizes header */
+
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -26,7 +37,7 @@ header h1 span {
     color: #d9dcd6;
 }
 
-/* navigation links to main section elements */
+/* navigation links to page elements */
 
 header nav {
     padding-top: 15px;
@@ -45,15 +56,8 @@ header nav ul li {
     margin-left: 25px;
 }
 
-a {
-    color: #ffffff;
-    text-decoration: none;
-}
+/* hero image */
 
-p {
-    font-size: 16px;
-}
-/* background image */
 figure {
     height: 800px;
     width: 100%;
@@ -62,6 +66,8 @@ figure {
     background-size: cover;
     background-position: center;
 }
+
+/* positioning for main elements */
 
 .float-left {
     float: left;
@@ -72,6 +78,8 @@ figure {
     float: right;
     margin-left: 25px;
 }
+
+/* styles for main services info elements*/
 
 main {
     width: 75%;
@@ -97,6 +105,8 @@ main section h2 {
     font-size: 36px;  
 }
 
+/* styles for right-hand sidebar */
+
 aside {
     margin-right: 20px;
     padding: 20px;
@@ -111,6 +121,9 @@ aside {
 aside section {
     margin-bottom: 32px;
     color: #ffffff;
+    /* altered text alignment from example because I 
+       thought it looked nicer centered for the sidebar. */
+    text-align: center;
 }
 
 aside section h3 {
